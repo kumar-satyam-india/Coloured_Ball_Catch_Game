@@ -15,5 +15,5 @@ Email: electropythonsatyam@gmail.com
 
 License:
 ========
-This game is designed by Kumar Satyam and published on GitHub under the "GNU General Public License v3.0".
+This game is designed by "Kumar Satyam" and published on GitHub under the "GNU General Public License v3.0".
 The detailed License terms can be seen in the "LICENSE" file in the same repository.
